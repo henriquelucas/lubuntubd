@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # URL da nova logo
-LOGO_URL="https://bomdemaissupermercados.com.br/logolubuntu.png"
+LOGO_URL="https://raw.githubusercontent.com/henriquelucas/lubuntubd/main/logo.png"
 
 # Diretório onde a logo será salva
 LOGO_DIR="/usr/share/plymouth/themes/lubuntu-logo"
